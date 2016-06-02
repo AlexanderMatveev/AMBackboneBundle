@@ -55,6 +55,15 @@ Optionally, use the --symlink attribute to create links rather than copies of th
 $ bin/console assets:install --symlink web
 ```
 
+## Usage
+
+Refer to the desired files in your HTML template, e.g.
+
+``` html
+<script type="text/javascript" src="{{ asset('bundles/alexandermatveevbackbone/js/underscore-min.js') }}"></script>
+<script type="text/javascript" src="{{ asset('bundles/alexandermatveevbackbone/js/backbone-min.js') }}"></script>
+```
+
 ## Licenses
 
 Refer to the source code of the included files for license information
