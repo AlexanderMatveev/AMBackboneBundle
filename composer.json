@@ -1,6 +1,6 @@
 
 {
-    "name":        "AlexanderMatveev/AMBackboneBundle",
+    "name":        "AlexanderMatveev/BackboneBundle",
     "type":        "symfony-bundle",
     "description": "Backbone.js Bundle for Symfony2",
     "keywords":    ["jquery", "backbone", "javascript", "symfony"],
@@ -22,8 +22,8 @@
     },
     "autoload":    {
         "psr-0": {
-            "AlexanderMatveev\\AMBackboneBundle": ""
+            "AlexanderMatveev\\BackboneBundle": ""
         }
     },
-    "target-dir":  "AlexanderMatveev/AMBackboneBundle"
+    "target-dir":  "AlexanderMatveev/BackboneBundle"
 }
