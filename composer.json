@@ -1,0 +1,29 @@
+
+{
+    "name":        "AlexanderMatveev/AMBackboneBundle",
+    "type":        "symfony-bundle",
+    "description": "Backbone.js Bundle for Symfony2",
+    "keywords":    ["jquery", "backbone", "javascript", "symfony"],
+    "homepage":    "http://backbonejs.org/",
+    "license":     ["MIT"],
+    "authors":     [
+        {
+            "name":     "Aleksandr Matveev",
+            "homepage": "https://github.com/AlexanderMatveev"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "require-dev": {
+        "symfony/framework-bundle": "~2.1",
+        "symfony/console": "~2.1",
+        "symfony/yaml": "~2.1"
+    },
+    "autoload":    {
+        "psr-0": {
+            "AlexanderMatveev\\AMBackboneBundle": ""
+        }
+    },
+    "target-dir":  "AlexanderMatveev/AMBackboneBundle"
+}
