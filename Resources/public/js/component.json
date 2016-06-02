@@ -1,0 +1,21 @@
+{
+	"name": "Backbone.js",
+	"title": "Backbone.js",
+	"description": "Backbone.js gives structure to web applications by providing models with key-value binding and custom events, collections with a rich API of enumerable functions, views with declarative event handling, and connects it all to your existing API over a RESTful JSON interface.",
+	"version": "1.3.3",
+	"homepage": "http://backbonejs.org/",
+	"author": {
+		"name": "jashkenas",
+		"url": "https://github.com/jashkenas"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/jashkenas/backbone.git"
+	},
+	"licenses": [
+		{
+			"type": "MIT",
+			"url": "https://mit-license.org/"
+		}
+	]
+}
