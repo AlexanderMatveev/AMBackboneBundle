@@ -4,6 +4,7 @@ Backbone.js Bundle for Symfony2
 ## Current Version
 
 Backbone.js 1.3.3
+
 Underscore.js 1.8.3
 
 ## Installation
