@@ -1,6 +1,6 @@
 
 {
-    "name":        "AlexanderMatveev/backbone-bundle",
+    "name":        "alexandermatveev/backbone-bundle",
     "type":        "symfony-bundle",
     "description": "Backbone.js Bundle for Symfony2",
     "keywords":    ["jquery", "backbone", "javascript", "symfony"],
