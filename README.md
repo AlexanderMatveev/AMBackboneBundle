@@ -1,4 +1,4 @@
-# Backbone.js Bundle for Symfony2
+Backbone.js Bundle for Symfony2
 =======================
 
 ## Current Version
