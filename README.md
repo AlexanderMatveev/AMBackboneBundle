@@ -1,11 +1,4 @@
 # Backbone.js Bundle for Symfony2
-
-## Installation
-
-composer require alexandermatveev/backbone-bundle
-
-
-FancyBox Bundle for Symfony2
 =======================
 
 ## Current Version
